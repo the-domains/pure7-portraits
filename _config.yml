@@ -15,11 +15,16 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#252525'
+    - '#ababab'
+    - '#3d3d3d'
+    - '#585858'
+    - '#c8c8c8'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose:
   - name: follow
     item: null
